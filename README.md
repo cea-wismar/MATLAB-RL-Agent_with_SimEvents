@@ -1,4 +1,6 @@
 # MATLAB-RL-Agent_with_SimEvents
+
+![Simulink Preview](images/SimulinkPreview.png)
 ## Overview
 This is an example of using the Q-Agent from the MATLAB Reinforcement Learning Toolbox with a discrete-event-based SimEvents model. It shows a procedure that makes it possible to use the agent in an event-driven manner. It can also be transferred to other agents in the toolbox.
 
